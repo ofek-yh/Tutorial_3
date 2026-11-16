@@ -1,4 +1,4 @@
 name: Ofek Jehoshoa
-start: 45
-minutes:5
+start: 88
+minutes:12.27
 
